@@ -220,8 +220,3 @@ void httpCient(String host, int port, String url, int btnId, String type){
   
 }
 
-
-
-
-
-

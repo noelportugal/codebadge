@@ -80,3 +80,4 @@ void initButtons() {
   button2.setButtonConfig(&buttonConfig);
   button2.init(BUTTON2_PIN, HIGH, 2);
 }
+
